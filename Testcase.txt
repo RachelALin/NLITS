@@ -1,0 +1,36 @@
+1.What was pressure on 2009/12/10/ at 9:10?
+2.What was pressure and humidity on 2013/11/10 at 18:00?
+3.What was temperature on 2011-05-15 at 07:00?
+4.What was the humidity on March 3, 2023 at 18:00?
+5.What is direction right now?
+6.What was the pressure on April 14, 2002, at 12:45?
+7.What was the relative humidity on 2023-10-19 at 09:30?
+8.What was the temperature and pressure on December 31, 2023, at 23:59?
+9.What was wind on 2023-09-18 at 14:00?
+10.What was the H2OC on 2024-06-18 at 07:45?
+11.What were the temperature , humidity and direction on December 31, 2023, at 23:59?
+12.What is pressure now?
+13.What was the average temperature from October 1, 2016 to October 7, 2016?
+14.What was the average pressure in Dec., 2016?
+15.List the average HUMIDITY in May, 2009?
+16.What was the average temperature from 2011-03-01 to 2012-08-10?
+17.What is the average temperature from Feb,2011 to May,2014?
+18.What was the average temperature in 2011/01/02?
+19.What were the average pressure and humidity in 2011/01/02?
+20.What was the highest relative humidity in 2011-1-2?
+21.What was the highest vpmax in 2009?
+22.Find the highest vpmax today?
+23.Find out the lowest vpmax yesterday?
+24.Determine the lowest pressure last month?
+25.How about the temperature from October 1, 2016 to October 7, 2016?
+26.How about pressure in Dec., 2016?
+27.What were the HUMIDITY and TEMPERATURE in July, 2009?
+28.What were the pressure,humidity and temperature from 2009-03-01 to 2009-04-11?
+29.What was temperature on December 23, 2020?
+30.What was speed from 2021-01-20 to 2021-01-31?
+31.List the pressure and humidity last year?
+32.List the relative humidity in 2011?
+33.What were the vpmax from Feb, 2010 to Feb, 2010?
+34.What were the direction and vpmax from Feb., 2009 to Jan., 2010?
+35.What is the pressure today?
+36.What will the wind speed be tomorrow?
